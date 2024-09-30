@@ -1,0 +1,220 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+ ul a{
+    text-decoration: none;
+    color:gray;
+}
+.list{
+    width: 900px;
+}
+.weeding-pic{
+    width: 100%;
+    height: 500px;
+    background-image: url(images/background/homeHero_1.jpg);
+    background-position:70%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.last{
+    margin-top:0px;
+    height: 310px;
+    width: 302px;
+    border: dashed;
+    border-color: white;
+    background-color: rgba(249, 75, 249, 0.669);
+}
+.last2{
+    margin-top: 100px;
+}
+.yes{
+    font-size: 15px;
+}
+.ourstory{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.ceremomy{
+    background-color: #FEFCFA;
+}
+.demo{
+    top: 5px;
+}
+.demo2{
+    left: 110px;
+}
+.demo4{
+    margin-left: -140px; 
+    z-index: 1;
+}
+.demo3{
+    z-index: 2;
+    margin-left: 30px;
+}
+.memories1{
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 70px;
+}
+.memories{
+    margin-top: 190px;
+}
+.gift{
+    background-image: url(images/background/gft\ \(1\).jpg);
+    height: 610px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: 60%;
+    margin-top: 140px;
+}
+.gift-2{
+    font-size: 40px;
+    font-weight: bold;
+}
+.gift-btn{
+    width: 150px;
+    height: 60px;
+    background-color:purple;
+    color: white;
+    margin-top: 20px;
+}
+.gift3{
+    height: 400px;
+    margin-top: 70px;
+}
+.last-flower{
+    margin-top: 150px;
+}
+.footer{
+    width: 100%;
+    height: auto;
+    margin-top: 120px;
+    background-color: #F9F7F4;
+}
+.footer-1{
+    margin-top: 150px;
+    border-bottom: 1px solid black;
+}
+.para{
+    color: gray;
+}
+.attendence{
+    width: 100%;
+    height: auto;
+}
+.form{
+    height: 763px;
+    width: 300px;
+    border: 1px solid wheat;
+    color: white;
+    margin-top: 70px;
+}
+.box{
+    width: 251px;
+    height: 35px;
+}
+.box1{
+    width: 252px;
+    height: 119px;
+}
+@media(min-width:768px){
+.story1{
+    margin-left: 90px;
+}
+.gift-2{
+    font-size: 70px;
+    font-weight: bold;
+}
+.gift3{
+    height: 500px;
+    margin-left: 90px;
+}
+.gift4{
+    font-size: 25px;
+}
+.form{
+    height: 1000px;
+    width: 600px;
+    border: 1px solid wheat;
+    color: white;
+    margin-top: 70px;
+    margin-left: 40px ;
+}
+.box{
+    width: 500px;
+    height: 70px;
+}
+.box1{
+    width: 500px;
+    height: 200px;
+}
+}
+@media(min-width:992px){
+.weeding-pic{
+     width: 100%;
+     height: 900px;
+     background-image: url(images/background/homeHero_1.jpg);
+     background-position:70%;
+     background-repeat: no-repeat;
+     background-size: cover;}
+.weeding-story{
+    width: 100%;
+    height: 900px;
+}
+.story1{
+    position: relative;
+    margin-left: 0px;
+    margin-top: 70px;
+    padding-top: 50px;
+}
+.flower01{
+    position: absolute;
+    right: 80%;
+    margin-top: 430px;
+    background-size: contain;
+}
+.gift-2{
+    font-size: 70px;
+    font-weight: bold;
+}
+.gift3{
+    height: 500px;
+    margin-left: 90px;
+}
+.gift4{
+    font-size: 25px;
+}
+.last{
+    margin-top: 30px;
+    height: 500px;
+    width: 500px;
+    border: dashed;
+    background-color: rgba(249, 75, 249, 0.669);
+    border-color: white;
+}
+.yes{
+    font-size: 30px;
+}
+.last2{
+    margin-top: 140px;
+}
+.form{
+    height: 1000px;
+    width: 600px;
+    border: 1px solid wheat;
+    color: white;
+    margin-top: 70px;
+    margin-left:340px ;
+}
+.box{
+    width: 500px;
+    height: 70px;
+}
+.box1{
+    width: 500px;
+    height: 200px;
+}
+}
